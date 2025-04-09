@@ -1,0 +1,10 @@
+|   num_teams |   solve_time_sec | status   |   total_breaks |
+|------------:|-----------------:|:---------|---------------:|
+|           6 |            0.115 | Feasible |              4 |
+|           8 |            1.899 | Feasible |              6 |
+|          10 |           27.423 | Feasible |              8 |
+|          12 |           74.524 | Feasible |             10 |
+|          14 |           11.013 | Feasible |             12 |
+|          16 |           21.64  | Feasible |             14 |
+|          18 |          184.361 | Feasible |             16 |
+|          20 |          341.186 | Feasible |             18 |
